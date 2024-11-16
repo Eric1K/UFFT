@@ -1,4 +1,4 @@
-# UFFT
+# UFFT | Unprivate Fortnite Tracker Tool
 Eliminate uncertainty about skill levels when searching for your next potential teammate.
 
 Introducing UFFT, a powerful web tool designed to help Fortnite eSports players find the ideal teammates for tournaments by providing transparent and reliable player statistics. 
